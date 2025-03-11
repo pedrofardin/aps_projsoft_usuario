@@ -1,4 +1,4 @@
-package br.insper.iam.usuario;
+package br.insper.usuario.usuario;
 
 public record CountUsuarioDTO(Long count) {
 }

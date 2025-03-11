@@ -1,4 +1,4 @@
-package br.insper.iam.evento;
+package br.insper.usuario.evento;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

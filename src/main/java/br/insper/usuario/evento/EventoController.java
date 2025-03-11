@@ -1,4 +1,4 @@
-package br.insper.iam.evento;
+package br.insper.usuario.evento;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

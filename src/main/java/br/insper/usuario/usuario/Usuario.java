@@ -1,4 +1,4 @@
-package br.insper.iam.usuario;
+package br.insper.usuario.usuario;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
